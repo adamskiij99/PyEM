@@ -6,3 +6,8 @@ The default SDEs in the code are those defining the Heston model, a typical stoc
 
 ![Heston](https://user-images.githubusercontent.com/62266775/203598910-ac9fa30a-5fc1-4978-9180-820c85587eb5.png)
 
+This project serves two purposes:
+- To make SDEs feel more natural to students and practitioners, by way of easily implementable examples or custom SDEs; and
+- To give me a feel for software development and more programming experience in general.
+
+There are already a few SDE samplers out there already, and I don't aim to beat them. This is a project mostly for fun, by somebody with no software development training. The project is currently in very early days. Potential directions this may go in include allowing for stochastic partial differential equation (SPDE) functionality, estimation and calibration of parameters from data, and pretty visualisation of SDEs.
